@@ -1,0 +1,11 @@
+body,*{
+    margin: 0px;
+  }
+  nav{
+      padding: 15px;
+    background-color: black;
+  }
+  a{
+      color: white;
+      padding: 10px;
+  }
